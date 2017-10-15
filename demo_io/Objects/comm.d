@@ -1,0 +1,14 @@
+.\objects\comm.o: comm\comm.c
+.\objects\comm.o: comm\comm.h
+.\objects\comm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\comm.o: .\atsha204a\sha204_command.h
+.\objects\comm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_comm_marshaling.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_comm.h
+.\objects\comm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_physical.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_config.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_lib_return_codes.h
+.\objects\comm.o: .\atsha204a\sha204_helper\sha204_helper.h
+.\objects\comm.o: comm\crc.h
+.\objects\comm.o: .\atsha204a\sha204_library\sha204_timer_utilities.h
